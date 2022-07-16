@@ -7,3 +7,8 @@ myStr2 += "This is the second sentence."
 //Constructing Strings with Variables
 const myName = "Aliaksandr";
 const myStr3 = "My name is " + myName + "and I am well!";
+
+//Appending Variables to Strings
+const someAdjective = "awesome";
+let myStr4 = "Learning to code is ";
+myStr4 += someAdjective;
