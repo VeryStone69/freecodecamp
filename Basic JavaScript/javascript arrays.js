@@ -37,3 +37,13 @@ myArray8.unshift(["Paul", 35]);         // removedFromMyArray = ["John", 23];
 //Manipulate Arrays With unshift()
 const myArray9 = [["John", 23], ["dog", 3]];
 myArray9.shift(["Paul", 35]); //myArray9 = [["Paul", 35], ["John", 23], ["dog", 3]];
+
+//multi-dimensional array containing several sub-arrays
+const myList = [
+  ["Chocolate Bar", 15],
+  ["Beer Bar", 10],
+  ["Vodka", 5],
+  ["Wine Bar", 15],
+  ["Cake Bar", 20]
+];
+
