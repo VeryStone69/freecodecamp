@@ -2,7 +2,7 @@
 function reusableFunction() {
     console.log('Hi World')
   }
-reusableFunction(); // in console: Hi World
+reusableFunction();             // in console: Hi World
 
 //Passing Values to Functions with Arguments
 function functionWithArgs(a,b) {
@@ -33,3 +33,12 @@ function fun2() {
   }
   console.log(output);
 }
+
+//Local Scope and Functions
+function myLocalScope() {
+    let myVar = 'js';
+    console.log('inside myLocalScope', myVar);   //inside myLocalScope js 
+}
+myLocalScope();
+console.log('outside myLocalScope', myVar);     //ReferenceError: myVar is not defined
+
