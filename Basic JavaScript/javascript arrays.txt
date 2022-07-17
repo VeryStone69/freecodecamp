@@ -1,2 +1,6 @@
-// Only change code below this line
+// Store Multiple Values in one Variable using JavaScript Arrays
 const myArray = ['hello', 505];
+
+//Nest one Array within Another Array
+const myArray = [['hello'],[505]];
+
