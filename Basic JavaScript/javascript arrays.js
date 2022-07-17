@@ -19,7 +19,6 @@ const myArray5 = [
   [7, 8, 9],
   [[10, 11, 12], 13, 14],
 ];
-
 const myData5 = myArray5[2][1]; //myData5 =8;
 
 //Manipulate Arrays With push()
@@ -29,3 +28,7 @@ myArray6.push(["dog", 3]); //myArray6 = [["John", 23], ["cat", 2], ["dog", 3]];
 //Manipulate Arrays With pop()
 const myArray7 = [["John", 23], ["cat", 2]];
 let removedFromMyArray = myArray7.pop(); //removedFromMyArray = ["cat", 2];
+
+//Manipulate Arrays With shift()
+const myArray8 = [["John", 23], ["dog", 3]];
+let removedFromMyArray = myArray8.shift(); // removedFromMyArray = ["John", 23];
