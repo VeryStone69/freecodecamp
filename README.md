@@ -13,6 +13,11 @@ this repository is used to practice working with github. I'll be committing task
   <p>HTML is a markup language that uses a special syntax or notation to describe the structure of a webpage to the browser. HTML elements usually have opening and closing tags that surround and give meaning to content. For example, different elements can describe text as a heading, paragraph, or list item. In this course, you'll build a cat photo app to learn some of the most common HTML elements — the building blocks of any webpage.</p>
   </li>
   <li>
+  <h3>Applied Visual Design</h3>
+  <p>Visual design is a combination of typography, color theory, graphics, animation, page layout, and more to help deliver your unique message.
+In this course, you'll learn how to apply these different elements of visual design to your webpages.</p>
+  </li>
+  <li>
   <h3>Basic JavaScript</h3>
   <p>JavaScript is a scripting language you can use to make web pages interactive. It is one of the core technologies of the web, along with HTML and CSS, and is supported by all modern browsers. In this course, you'll learn fundamental programming concepts in JavaScript. You'll start with basic data structures like numbers and strings. Then you'll learn to work with arrays, objects, functions, loops, if/else statements, and more.</p>
   </li>
