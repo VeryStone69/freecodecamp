@@ -17,6 +17,10 @@ this repository is used to practice working with github. I'll be committing task
   <p>Visual design is a combination of typography, color theory, graphics, animation, page layout, and more to help deliver your unique message.
 In this course, you'll learn how to apply these different elements of visual design to your webpages.</p>
   </li>
+   <li>
+  <h3>Applied Accessibility</h3>
+  <p>In web development, accessibility refers to web content and a UI (user interface) that can be understood, navigated, and interacted with by a broad audience. This includes people with visual, auditory, mobility, or cognitive disabilities. In this course, you'll learn best practices for building webpages that are accessible to everyone.</p>
+  </li>
   <li>
   <h3>Basic JavaScript</h3>
   <p>JavaScript is a scripting language you can use to make web pages interactive. It is one of the core technologies of the web, along with HTML and CSS, and is supported by all modern browsers. In this course, you'll learn fundamental programming concepts in JavaScript. You'll start with basic data structures like numbers and strings. Then you'll learn to work with arrays, objects, functions, loops, if/else statements, and more.</p>
