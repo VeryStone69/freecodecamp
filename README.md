@@ -13,6 +13,10 @@ this repository is used to practice working with github. I'll be committing task
   <p>HTML is a markup language that uses a special syntax or notation to describe the structure of a webpage to the browser. HTML elements usually have opening and closing tags that surround and give meaning to content. For example, different elements can describe text as a heading, paragraph, or list item. In this course, you'll build a cat photo app to learn some of the most common HTML elements — the building blocks of any webpage.</p>
   </li>
   <li>
+  <h3>CSS Flexbox</h3>
+  <p>Flexbox is a powerful, well-supported layout method that was introduced with the latest version of CSS, CSS3. With flexbox, it's easy to center elements on the page and create dynamic user interfaces that shrink and expand automatically. In this course, you'll learn the fundamentals of flexbox and dynamic layouts by building a Twitter card.</p>
+  </li>
+  <li>
   <h3>Applied Visual Design</h3>
   <p>Visual design is a combination of typography, color theory, graphics, animation, page layout, and more to help deliver your unique message.
 In this course, you'll learn how to apply these different elements of visual design to your webpages.</p>
