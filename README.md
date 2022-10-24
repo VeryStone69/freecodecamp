@@ -17,6 +17,10 @@ this repository is used to practice working with github. I'll be committing task
   <p>Flexbox is a powerful, well-supported layout method that was introduced with the latest version of CSS, CSS3. With flexbox, it's easy to center elements on the page and create dynamic user interfaces that shrink and expand automatically. In this course, you'll learn the fundamentals of flexbox and dynamic layouts by building a Twitter card.</p>
   </li>
   <li>
+  <h3>CSS Grid</h3>
+  <p>The CSS grid is a newer standard that makes it easy to build complex responsive layouts. It works by turning an HTML element into a grid, and lets you place child elements anywhere within. In this course, you'll learn the fundamentals of CSS grid by building different complex layouts, including a blog.</p>
+  </li>
+  <li>
   <h3>Applied Visual Design</h3>
   <p>Visual design is a combination of typography, color theory, graphics, animation, page layout, and more to help deliver your unique message.
 In this course, you'll learn how to apply these different elements of visual design to your webpages.</p>
