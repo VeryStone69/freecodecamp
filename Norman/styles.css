@@ -39,3 +39,6 @@ img {
     height: auto;
     margin: 0 auto;
 }
+#img-caption {
+    margin: 15px 0 5px 0;
+}
